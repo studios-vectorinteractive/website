@@ -1,0 +1,101 @@
+body{
+  text-align: center;
+  align-content: center;
+  margin: 0;
+  font-family: 'Sarabun', sans-serif;
+}
+
+h1{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Amatic SC', sans-serif;
+  font-weight: bolder;
+  color: #383838;
+  font-size: 3.5em;
+}
+
+h2{
+  font-family: 'Amatic SC', sans-serif;
+  color: #383838;
+  font-weight: normal;
+}
+
+h4{
+  color: #333333;
+  font-family: 'Ubuntu';
+}
+
+h6{
+  color: #333333;
+  font-style: italic;
+}
+
+hr{
+  color: #2e2e2e;
+  height: 0;
+  width: 40%;
+}
+
+.custom-nav-list-item{
+  color: white;
+  margin-right: 4em;
+  font-size: 1.5em;
+  font-family: 'Amatic SC';
+}
+
+.navbar-toggler{
+  background-color: white;
+}
+
+.custom-nav-list-item:hover{
+  color: #6ebfb5;
+  margin-right: 4em;
+  font-size: 1.5em;
+  font-family: 'Amatic SC';
+}
+
+.navbar-brand{
+  text-align: center;
+  height: auto;
+}
+
+.custom-container{
+  padding: 1% 12%;
+  margin: 1% auto;
+}
+
+.custom-col{
+  padding: 4%;
+}
+
+.info-div{
+  text-align: center;
+  padding: 1%;
+  margin: 4% auto 1%;
+}
+
+.para-div{
+  padding-top: 4%;
+  height: auto;
+  margin: 8% auto;
+}
+
+.info-para{
+  margin: 0 auto;
+  font-size: 1.1rem;
+  text-align: justify;
+  font-family: 'Ubuntu';
+}
+
+.founders-img{
+  width: 30%;
+  margin: auto auto 5%;
+  border-radius: 100%;
+}
+
+.founders-img:hover{
+  filter: drop-shadow(1.5px 1.5px 10px grey);
+  width: 30%;
+  margin: auto auto 5%;
+  border-radius: 50%;
+}
